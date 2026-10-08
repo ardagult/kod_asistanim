@@ -1,1 +1,1 @@
-# kod_asistanim
+delete# kod_asistanim
